@@ -1,0 +1,43 @@
+# 🎓 Dashboard – Perfil dos Estudantes do Programa Trilhas (MA)
+
+Este dashboard foi desenvolvido no Looker Studio para visualizar e analisar o perfil dos estudantes participantes do programa educacional **Trilhas**, promovido pelo Governo do Maranhão. 
+O objetivo é proporcionar uma visão clara e interativa sobre os dados sociodemográficos e educacionais dos alunos.
+
+---
+
+## 📊 Métricas e Análises Apresentadas
+
+- Distribuição dos estudantes por **município**
+- Comparativo por **gênero**
+- Origem educacional (**escolas de origem**)
+- Evolução das **inscrições ao longo do tempo**
+- Análise da **média de idades**
+- Indicadores **socioeconômicos**
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+- Google Sheets (dados fictícios)
+- Looker Studio (criação do dashboard)
+- PDF e imagens para visualização estática
+
+---
+
+## 📷 Visão Geral
+
+### Página 1 – Panorama Geral
+![Página 1](dashboard-trilhas.png)
+
+### Página 2 – Dados Socioeconômicos (opcional)
+![Página 2](pagina2-trilhas.png)
+
+---
+
+## 🔗 Acesse o Dashboard Online
+
+[👉 Ver no Looker Studio](https://lookerstudio.google.com/reporting/SEU-LINK-AQUI)
+
+---
+
+
