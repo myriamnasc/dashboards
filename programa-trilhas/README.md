@@ -29,7 +29,7 @@ O objetivo é proporcionar uma visão clara e interativa sobre os dados sociodem
 ### Página 1 – Panorama Geral
 ![Página Incial](pagina-inicial.png)
 
-### Página 2 – Dados Socioeconômicos (opcional)
+### Página 2 – Dados Socioeconômicos 
 ![Dados socioeconomicos](dados-socioeconomicos.png)
 
 ---
