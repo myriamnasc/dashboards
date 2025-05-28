@@ -29,11 +29,6 @@ As respostas a essas perguntas são exibidas de forma visual e interativa no das
 
 > O dashboard possui apenas uma página, com uma visão integrada de todos os principais indicadores.
 
-## Arquivos
-
-- [`petshop.pbix`](petshop.pbix)
-- ![Imagem do relatório](dashboard.png)
-
 ## 📌 Fonte dos Dados
 
 Os dados são fictícios, amplamente usados em bootcamps e treinamentos de Power BI.
