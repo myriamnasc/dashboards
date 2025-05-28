@@ -2,7 +2,7 @@
 
 Este projeto apresenta um dashboard interativo criado no Power BI com base em dados fictícios de um petshop. O objetivo é fornecer uma visão estratégica e simplificada do desempenho do negócio.
 
-##Sobre o Projeto
+## Sobre o Projeto
 
 Este dashboard foi desenvolvido com o objetivo de analisar dados operacionais e financeiros de um petshop fictício.
 
@@ -25,14 +25,14 @@ As respostas a essas perguntas são exibidas de forma visual e interativa no das
 
 ## Visão do Dashboard
 
-![Dashboard](/dashboard.png)
+![Dashboard](dashboard.png)
 
 > O dashboard possui apenas uma página, com uma visão integrada de todos os principais indicadores.
 
 ## Arquivos
 
 - [`petshop.pbix`](petshop.pbix)
-- `/petshop.png` – imagem do relatório
+- ![Imagem do relatório](dashboard.png)
 
 ## 📌 Fonte dos Dados
 
