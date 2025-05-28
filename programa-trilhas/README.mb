@@ -20,17 +20,16 @@ O objetivo é proporcionar uma visão clara e interativa sobre os dados sociodem
 
 - Google Sheets (dados fictícios)
 - Looker Studio (criação do dashboard)
-- PDF e imagens para visualização estática
 
 ---
 
 ## 📷 Visão Geral
 
 ### Página 1 – Panorama Geral
-![Página 1](dashboard-trilhas.png)
+![Página Incial](pagina-inicial.png)
 
 ### Página 2 – Dados Socioeconômicos (opcional)
-![Página 2](pagina2-trilhas.png)
+![Dados socioeconomicos](dados-socioeconomicos.png)
 
 ---
 
